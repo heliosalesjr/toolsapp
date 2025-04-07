@@ -1,3 +1,7 @@
+import Footer from "./components/Footer"
+import HeroSection from "./components/HeroSection"
+import Navbar from "./components/Navbar"
+import ProgressBar from "./components/ProgressBar"
 
 
 function App() {
@@ -5,7 +9,10 @@ function App() {
 
   return (
     <>
-      <h1 className="bg-pink-300 text-5xl text-center py-16 text-green-700 font-black">Hello bora lá</h1>
+      <Navbar />
+      <HeroSection />
+      <ProgressBar />
+      <Footer />
     </>
   )
 }
