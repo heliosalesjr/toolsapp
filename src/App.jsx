@@ -3,6 +3,7 @@ import HeroSection from "./components/HeroSection"
 import Navbar from "./components/Navbar"
 import ProgressBar from "./components/ProgressBar"
 
+import Tools from "./components/Tools"
 
 function App() {
 
@@ -12,7 +13,10 @@ function App() {
       <Navbar />
       <HeroSection />
       <ProgressBar />
+      <Tools />
       <Footer />
+      
+
     </>
   )
 }
