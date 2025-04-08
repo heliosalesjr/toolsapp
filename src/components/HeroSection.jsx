@@ -18,7 +18,7 @@ export default function HeroSection() {
               }}
             >
               <img
-                src="/assets/images/hero5.jpg"
+                src="/assets/images/hero1.jpg"
                 alt="Homem sorrindo"
                 className="h-full w-full object-cover"
                 style={{
@@ -47,7 +47,7 @@ export default function HeroSection() {
             <div className="flex justify-center sm:justify-start">
               <button
                 onClick={() => {
-                  document.getElementById("chapter-list")?.scrollIntoView({ behavior: "smooth" })
+                  document.getElementById("content")?.scrollIntoView({ behavior: "smooth" })
                 }}
                 className="group relative flex items-center rounded-full bg-[#0F172A] px-4 sm:px-6 py-2.5 sm:py-3 text-white 
                     transition-all duration-300 ease-out hover:bg-[#1E293B] hover:scale-105 shadow-lg hover:shadow-xl"

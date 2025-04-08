@@ -12,10 +12,10 @@ export default function Tools() {
     : data
 
   return (
-    <section className="space-y-16 px-6 py-24 bg-white text-center">
+    <section className="space-y-16 px-6 py-12 bg-white text-center " id="content">
       {/* Título principal e subtítulo */}
       <div className="space-y-4 max-w-3xl mx-auto">
-        <h1 className="text-4xl font-bold text-slate-900">Ferramentas Criativas</h1>
+        <h1 className="text-4xl font-bold bg-gradient-to-br from-green-700 to-green-500 text-transparent bg-clip-text">Ferramentas Criativas</h1>
         <p className="text-lg text-slate-600">
           Explore diversas ferramentas para criação de conteúdo, mídia e jogos interativos.
         </p>
@@ -50,9 +50,14 @@ export default function Tools() {
       </div>
 
       {/* Renderização das ferramentas */}
-      <div className="space-y-24">
+      <div className="space-y-8">
         {filteredTools.map((tool, index) => (
-          <FeatureHighlight key={index} {...tool} />
+          <FeatureHighlight
+          key={`tool-${index}`}
+          {...tool}
+          index={index}
+          isDark={index % 2 === 1} // 👈 alterna claro/escuro com base na posição
+        />
         ))}
       </div>
     </section>
