@@ -19,7 +19,7 @@
       "toolLink": "https://docs.google.com/presentation/u/0/",
       "advantages": ["Funciona diretamente no navegador, sem necessidade de instalação.", "Suporte para multimídia, como vídeos, imagens e animações.", "Colaboração em tempo real com comentários e sugestões.", "Download em diversos formatos, incluindo PowerPoint e PDF."],
       "cautions": ["Requer conexão com a internet para edição.", "Algumas funcionalidades avançadas do PowerPoint não estão disponíveis."],
-      "tags": ["1"]
+      "tags": ["2"]
     },
 
     {
@@ -31,7 +31,7 @@
         "toolLink": "https://www.mentimeter.com/",
         "advantages": ["Apenas disponível em inglês.", "Feedback em tempo real, permitindo ajustes durante a aula.", "Interface intuitiva e fácil de usar."],
         "cautions": ["Requer uma conta Google para acesso.", "Recursos limitados na versão gratuita."],
-        "tags": ["2"]
+        "tags": ["3"]
     },
 
     {
@@ -43,7 +43,7 @@
         "toolLink": "https://wordwall.net/pt",
         "advantages": ["Variedade de atividades personalizáveis.", "Fácil de compartilhar e acessar em diferentes dispositivos.", "Permite a criação de versões impressas dos jogos."],
         "cautions": ["Recursos avançados exigem assinatura paga.", "Não permite colaboração em tempo real entre professores."],
-        "tags": ["1"]
+        "tags": ["3"]
     },
 
     {
@@ -55,7 +55,7 @@
         "toolLink": "https://nearpod.com/",
         "advantages": ["Suporte para realidade virtual e simulações.", "Relatórios detalhados de desempenho.", "Integração com Google Slides."],
         "cautions": ["Alguns recursos são exclusivos da versão premium.", "Pode exigir um tempo de adaptação para novos usuários."],
-        "tags": ["1"]
+        "tags": ["2"]
     },
 
     {
@@ -91,7 +91,7 @@
         "toolLink": "https://www.wooclap.com/",
         "advantages": ["Integração com PowerPoint, Google Slides e outras ferramentas.", "Relatórios detalhados para análise do desempenho dos alunos.", "Possui versão gratuita com funcionalidades básicas."],
         "cautions": ["Algumas interações avançadas são limitadas na versão gratuita.", "Pode ser necessário um tempo de adaptação para novos usuários."],
-        "tags": ["1"]
+        "tags": ["3"]
     },
 
     {
@@ -103,7 +103,7 @@
       "toolLink": "https://wakelet.com/",
       "advantages": ["Interface intuitiva e de fácil navegação.", "Permite a colaboração entre alunos e professores.", "Funciona como um portfólio digital de conteúdos.", "Totalmente gratuito."],
       "cautions": ["Pode ter uma curva de aprendizado inicial para novos usuários.", "Alguns recursos de personalização são limitados."],
-      "tags": ["3"]
+      "tags": ["1"]
     }
   ]
   
