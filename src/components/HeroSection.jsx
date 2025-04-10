@@ -4,7 +4,7 @@ import { ArrowDown } from "lucide-react"
 
 export default function HeroSection() {
   return (
-    <div className="flex justify-center items-center min-h-screen w-full py-4 sm:py-10 px-4 sm:px-6">
+    <div className="flex justify-center items-center min-h-[70vh] w-full py-4 sm:py-10 px-4 sm:px-6">
       <div className="flex h-auto sm:h-[80vh] w-full max-w-9xl flex-col md:flex-row shadow-lg rounded-lg overflow-hidden">
         {/* Diagonal split with image section */}
         <div className="relative w-full h-[40vh] sm:h-auto md:w-1/2 bg-white">
