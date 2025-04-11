@@ -19,7 +19,7 @@
       "toolLink": "https://docs.google.com/presentation/u/0/",
       "advantages": ["Funciona diretamente no navegador, sem necessidade de instalação.", "Suporte para multimídia, como vídeos, imagens e animações.", "Colaboração em tempo real com comentários e sugestões.", "Download em diversos formatos, incluindo PowerPoint e PDF."],
       "cautions": ["Requer conexão com a internet para edição.", "Algumas funcionalidades avançadas do PowerPoint não estão disponíveis."],
-      "tags": ["2"]
+      "tags": ["1"]
     },
 
     {
@@ -31,7 +31,7 @@
         "toolLink": "https://www.mentimeter.com/",
         "advantages": ["Apenas disponível em inglês.", "Feedback em tempo real, permitindo ajustes durante a aula.", "Interface intuitiva e fácil de usar."],
         "cautions": ["Requer uma conta Google para acesso.", "Recursos limitados na versão gratuita."],
-        "tags": ["3"]
+        "tags": ["2"]
     },
 
     {
@@ -79,7 +79,7 @@
         "toolLink": "https://padlet.com/",
         "advantages": ["Fácil de usar e acessível em qualquer dispositivo.", "Suporte para diferentes formatos de conteúdo.", "Permite colaboração em tempo real."],
         "cautions": ["A versão gratuita tem limite de quadros criados.", "Algumas opções avançadas estão disponíveis apenas na versão paga."],
-        "tags": ["2"]
+        "tags": ["1"]
     },
 
     {
@@ -87,7 +87,7 @@
         "title": "Wooclap",
         "subtitle": "Engajamento e Interatividade em Aulas",
         "description": "O Wooclap é uma plataforma que transforma apresentações tradicionais em experiências interativas. Com recursos como quizzes, enquetes e nuvens de palavras, ele permite que os alunos participem ativamente das aulas por meio de seus próprios dispositivos.",
-        "videoUrl": "https://www.youtube.com/watch?v=BY_YPYOM8f4&list=PLwsiSyjg8LpRZsnPd5HnBAe2DdQYaRy3o",
+        "videoUrl": "https://www.youtube.com/watch?v=AAxLyk4bHrU",
         "toolLink": "https://www.wooclap.com/",
         "advantages": ["Integração com PowerPoint, Google Slides e outras ferramentas.", "Relatórios detalhados para análise do desempenho dos alunos.", "Possui versão gratuita com funcionalidades básicas."],
         "cautions": ["Algumas interações avançadas são limitadas na versão gratuita.", "Pode ser necessário um tempo de adaptação para novos usuários."],
@@ -103,7 +103,31 @@
       "toolLink": "https://wakelet.com/",
       "advantages": ["Interface intuitiva e de fácil navegação.", "Permite a colaboração entre alunos e professores.", "Funciona como um portfólio digital de conteúdos.", "Totalmente gratuito."],
       "cautions": ["Pode ter uma curva de aprendizado inicial para novos usuários.", "Alguns recursos de personalização são limitados."],
+      "tags": ["2"]
+    },
+
+    {
+      "icon": "SiGoogleclassroom",
+      "title": "Google Planilhas",
+      "subtitle": "Domine seus números, simplifique suas análises.",
+      "description": "O Google Planilhas é uma ferramenta de planilhas online gratuita oferecida pelo Google, permitindo criar, editar e compartilhar planilhas de forma colaborativa e em tempo real.",
+      "videoUrl": "https://www.youtube.com/watch?v=UUPvpN3jUZs",
+      "toolLink": "https://sheets.google.com/",
+      "advantages": ["Acesso fácil e gratuito pela conta do Google.", "Colaboração em tempo real permite trabalhar simultaneamente com outras pessoas.", "Integração com outros serviços do Google.", "Armazenamento na nuvem, possibilitando acesso de qualquer dispositivo.", "Funcionalidades básicas semelhantes ao Microsoft Excel."],
+      "cautions": ["Dependência de uma conexão à internet para uso.", "Funcionalidades offline são limitadas quando comparadas ao software de desktop."],
       "tags": ["1"]
+    },
+
+    {
+      "icon": "SiGoogleclassroom",
+      "title": "Kahoot",
+      "subtitle": "Plataforma de Aprendizagem Baseada em Jogos",
+      "description": "O Kahoot! é uma plataforma digital de aprendizagem baseada em jogos, utilizada para criar quizzes interativos em tempo real. Ele é muito usado em salas de aula e treinamentos corporativos para revisar conteúdos de forma dinâmica e engajar os participantes.",
+      "videoUrl": "https://www.youtube.com/watch?v=6MWUMYmAImo",
+      "toolLink": "https://kahoot.com/",
+      "advantages": ["Promove o engajamento e a participação ativa dos alunos.", "Facilita a revisão de conteúdos de maneira lúdica e interativa.", "Possui interface intuitiva e fácil de usar para criadores e jogadores.", "Permite feedback instantâneo sobre o desempenho."],
+      "cautions": ["Exige conexão à internet estável para funcionar adequadamente.", "Pode gerar competição excessiva, prejudicando alunos mais tímidos.", "Limitação no tipo de perguntas (foco em múltipla escolha e verdadeiro/falso).", "Versão gratuita tem recursos limitados em comparação à versão paga."],
+      "tags": ["3"]
     }
   ]
   

@@ -7,9 +7,10 @@ import { Button } from "@/components/ui/button"
 export default function Tools() {
   const [activeTag, setActiveTag] = useState(null)
 
-  const filteredTools = activeTag
+  const filteredTools = (activeTag
     ? data.filter(tool => tool.tags.includes(activeTag))
     : data
+  ).sort((a, b) => a.title.localeCompare(b.title))
 
   return (
     <section className="space-y-16 px-6 py-12 bg-white text-center " id="content">

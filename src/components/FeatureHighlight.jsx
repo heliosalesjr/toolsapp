@@ -63,7 +63,7 @@ export default function FeatureHighlight({
 
           <p
             className={clsx(
-              "text-lg",
+              "text-lg font-semibold",
               isDark ? "text-slate-300" : "text-slate-600"
             )}
           >
